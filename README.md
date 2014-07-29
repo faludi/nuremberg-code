@@ -1,7 +1,7 @@
 nuremberg-code
 ==============
 
-The Nuremberg Code is a set of research ethics principles for human experimentation created at the end of World War II in response to . It includes such principles as informed consent, absence of coercion, properly formulated scientific experimentation and benevolence towards human subjects.
+The Nuremberg Code is a set of research ethics principles for human experimentation created at the end of World War II. It includes such principles as informed consent, absence of coercion, properly formulated scientific experimentation and benevolence towards human subjects.
 
 10 POINTS OF THE NUREMBERG CODE
 
